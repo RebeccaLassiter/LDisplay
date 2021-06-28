@@ -1,0 +1,8 @@
+Use locations API
+
+send request per L Line. In response. for each train, look at its next stop (or station?).
+
+light up the LED that corresponds to its next station. 
+
+Update each line every minute. Stagger line updates so entire map isn't shifting at once
+	()
